@@ -1,0 +1,6 @@
+@JalilApiSecurity_HostAddress = http://localhost:5289
+
+GET {{JalilApiSecurity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
